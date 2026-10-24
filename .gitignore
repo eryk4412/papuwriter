@@ -1,0 +1,8 @@
+# Test and menu photos (excluded per user request)
+zdjecia_menu/
+zdjecia_menu123/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
